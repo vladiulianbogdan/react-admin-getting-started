@@ -2,7 +2,7 @@
 # The name of the project.
 name: react-admin
 # The region where the project is deployed.
-region: us-east-1
+region: eu-central-1
 # The version of the Genezio YAML configuration to parse.
 yamlVersion: 2
 backend:
