@@ -17,7 +17,7 @@ export const ForgotPassword = () => {
             navigate('/login');
         })
         .catch((e: any) =>
-            notify(e.error.message, {type: 'error'})
+            notify(e.message, {type: 'error'})
         );
     };
 

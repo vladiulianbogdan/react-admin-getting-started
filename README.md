@@ -4,7 +4,7 @@ This is a template for a react-admin web application hosted on Genezio. It expos
 
 # Deploying this example
 
-[![Deploy to Genezio](https://raw.githubusercontent.com/Genez-io/graphics/main/svg/deploy-button.svg)](https://dev.app.genez.io/start/deploy?repository=https://github.com/Genez-io/react-admin-getting-started)
+[![Deploy to Genezio](https://raw.githubusercontent.com/Genez-io/graphics/main/svg/deploy-button.svg)](https://app.genez.io/start/deploy?repository=https://github.com/Genez-io/react-admin-getting-started)
 
 # Setting up this example
 
@@ -16,4 +16,4 @@ This is a template for a react-admin web application hosted on Genezio. It expos
 
 # Demo
 
-You can play with it here: https://lime-recent-tuna.app.genez.io/
+You can play with it here: https://amethyst-vulnerable-pheasant.app.genez.io/
