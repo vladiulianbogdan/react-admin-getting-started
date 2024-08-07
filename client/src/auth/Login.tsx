@@ -2,7 +2,7 @@
 import React, { useState, CSSProperties } from 'react';
 import { useLogin, useNotify, Notification } from 'react-admin';
 import { Link } from 'react-router-dom';
-import { sharedStyles as styles } from './Styles';
+import { sharedStyles as styles } from './styles';
 
 export const Login = () => {
     const [email, setEmail] = useState('');
