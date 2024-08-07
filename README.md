@@ -16,4 +16,4 @@ This is a template for a react-admin web application hosted on Genezio. It expos
 
 # Demo
 
-You can play with it here: https://lime-recent-tuna.app.genez.io/
+You can play with it here: https://amethyst-vulnerable-pheasant.app.genez.io/
